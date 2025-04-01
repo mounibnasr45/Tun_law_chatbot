@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+transformers
+sentence-transformers
+langchain
+rank-bm25
+torch
+numpy
+asyncio
+python-multipart
+streamlit
+requests
